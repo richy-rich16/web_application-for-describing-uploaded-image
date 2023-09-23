@@ -1,0 +1,18 @@
+Download the code using the link 
+https://niltech.sharepoint.com/sites/NiltechSharedSiteML/_layouts/15/guestaccess.aspx?share=Ep08NZ0M6YNOookjFtvoSekBbGF-zclkX6S-NKtyD7gVAg&e=eiY2Rz
+
+Extract the folder out of Downloaded Zip File.
+
+Open the folder using VS code
+
+Run main.py by clicking on triangular button on the top right.
+
+Once you run main.py, you can see the option of terminal.
+
+Install the necessary modules using the following commands in terminal:
+pip install scikit-image pillow pytorch transformers tqdm opencv-python numpy flask
+pip install git+https://github.com/openai/CLIP.git
+
+Once you install the necessary modules, and run main.py, you will be getting a URL to access your web page like Running on ......
+
+ 
